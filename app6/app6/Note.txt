@@ -1,0 +1,7 @@
+app1 : rest webservices ==> return values
+app2 : rest webservices ==> path variables
+app3 : rest webservices ==> request param
+app4 : rest webservices ==> request body
+app5 : rest webservices ==> mail sender
+app6 : rest webservices ==> file upload
+Password : guuisztpupvlighu
