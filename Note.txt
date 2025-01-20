@@ -1,0 +1,17 @@
+app1  :  rest webservices ==> return values
+app2  :  rest webservices ==> path variables
+app3  :  rest webservices ==> request param
+app4  :  rest webservices ==> request body
+app5  :  rest webservices ==> mail sender
+app6  :  rest webservices ==> file upload
+app7  :  rest webservices ==> excel sheet upload and process (POI library)
+app8  :  rest webservices ==> Response Entity
+app9  :  Spring Data JPA  ==> setup and Basic
+app10 :  Spring Data JPA  ==> CRUD operations
+app11 :  Spring Data JPA  ==> custom operations(user defined db operations),
+                              not null,uniqe,composite unique and composite primary
+app12 :  Spring Data JPA  ==> VAO and DTO(Value Added Onject and Data Transfer Object)
+app13 :  Spring Data JPA  ==> One to One Mapping
+app14 :  Spring Data JPA  ==> One to many
+app15 :  Spring Data JPA  ==> Many to Many 
+Password : guuisztpupvlighu
